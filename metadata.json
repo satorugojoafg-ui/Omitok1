@@ -1,0 +1,6 @@
+{
+  "name": "OMITOK",
+  "description": "OMITOK bilingual Persian & English futuristic short-video social network app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
